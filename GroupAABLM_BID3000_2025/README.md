@@ -27,8 +27,3 @@ Business Intelligence project built around the Olist e-commerce dataset. The pro
 ## Dataset note
 The original CSV datasets are not tracked in this repository to keep the project lightweight and GitHub-friendly. If needed, place the Olist CSV files in `ETL/Dataset/` before running the full ETL pipeline locally.
 
-## Interview talking points
-- How the warehouse schema supports analysis and reporting
-- ETL design choices, data cleaning, and rejected records
-- Forecasting approach in Python and how the output was interpreted
-- How technical work was translated into dashboard-driven business insight
