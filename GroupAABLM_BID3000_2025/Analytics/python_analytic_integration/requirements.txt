@@ -1,0 +1,14 @@
+# Data Processing
+pandas==2.3.3
+numpy==2.2.5
+
+# Visualization
+matplotlib==3.10.6
+seaborn==0.13.2
+
+# ML
+scikit-learn==1.7.2
+
+# DB Connection
+sqlalchemy==2.0.43
+psycopg2-binary==2.9.11
